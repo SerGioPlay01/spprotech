@@ -1,0 +1,13 @@
+# Разрешить всем роботам доступ ко всем разделам сайта
+User-agent: *
+Allow: /
+
+# Запретить доступ к системным страницам
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /media/
+Disallow: /resources/
+
+# Указать путь к карте сайта
+Sitemap: https://spprotech.netlify.app/sitemap.xml

@@ -1,0 +1,110 @@
+:body.scheme_dark  :-webkit-scrollbar-thumb {
+    background: linear-gradient(150deg, #121212, #2ed180); /* Градиент для красивого эффекта */
+    border: 1px solid #2ed180;
+}
+
+:body.scheme_dark  :-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #121212, #2ed180); /* Затемнение при наведении */
+}
+
+body.scheme_dark {
+    background-color: #161616;
+    color: #ffffff;
+}
+
+body.scheme_dark .btn-darkmode {
+    filter: invert(50%);
+}
+body.scheme_dark .logo_svg {
+    content: url(/resources/logo.svg);
+}
+body.scheme_dark header {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #3d3d3d;
+}
+body.scheme_dark footer {
+    background-color: #1a1a1a;
+    border-top: 1px solid #3d3d3d;
+}
+body.scheme_dark .link_footer {
+    color: #22e785;
+}
+body.scheme_dark .text_add_logo {
+    color: #9bf0c6;
+}
+body.scheme_dark .link_tg {
+    background-color: #252525;
+}
+body.scheme_dark .btn {
+    background-color: #252525;
+}
+body.scheme_dark .block_el {
+    background-color: #252525;
+}
+body.scheme_dark .news {
+    background-color: #252525;
+}
+body.scheme_dark .link_news {
+    color:  #ffffff;
+}
+body.scheme_dark .date_news_ {
+    color: #2ed180;
+}
+body.scheme_dark .chicata {
+    background: linear-gradient(135deg, #2ed180, #15b465);
+    border-left: 4px solid #ffffff;
+    color: #161616;
+    transition: transform 0.3s ease-in-out;
+}
+body.scheme_dark i {
+    color: #161616af;
+}
+body.scheme_dark .chicata::before {
+    color: #ffffff;
+}
+
+body.scheme_dark .chicata::after {
+    color: #ffffff;
+}
+body.scheme_dark .event {
+    border: 2px solid #252525;
+}
+body.scheme_dark .date_event {
+    border-top: 1px solid #252525;
+}
+body.scheme_dark .link {
+    color:  #ffffff;
+}
+body.scheme_dark .link_event {
+    color:  #ffffff;
+}
+body.scheme_dark .article {
+    background-color: #1a1a1a;
+    border: 1px solid #3d3d3d;
+}
+body.scheme_dark .article img {
+    background-color: #00000025;
+}
+@media (hover:hover) {
+    body.scheme_dark .link_tg:hover {
+        background-color: #1b92d1;
+    }
+    body.scheme_dark .block_el:hover {
+        background-color: #15b465;
+    }
+    body.scheme_dark .btn:hover {
+        background-color: #131313;
+    }
+    body.scheme_dark .link_event:hover {
+        color: #22e785;
+        transition: all 0.3s ease-in-out;
+    }
+    body.scheme_dark .news:hover {
+        background-color: #15b465;
+        transition: all 0.3s ease-in-out;
+    }
+    body.scheme_dark .link_footer:hover {
+        color: #15b465;
+        transition: all 0.3s ease-in-out;
+    }
+}

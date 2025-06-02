@@ -1,0 +1,7 @@
+ <figure class="__image">
+        <div class="_inner">
+            <a href="https://static.rozetked.me/imager/med/uploads/Lx/LxzRebbf7gF1.webp" class="popup_img">
+                <img src="https://static.rozetked.me/imager/med/uploads/Lx/LxzRebbf7gF1.webp" alt="" loading="lazy">
+            </a>
+        </div>
+    </figure>
