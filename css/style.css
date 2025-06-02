@@ -146,7 +146,7 @@ footer {
     width: 100%;
 }
 .preview {
-   height: 250px;
+   height: 150px;
    width: 100%;
    object-fit: cover;
    border-radius: 25px;
