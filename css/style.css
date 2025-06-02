@@ -149,7 +149,7 @@ footer {
    height: 150px;
    width: 100%;
    object-fit: fill;
-   border-radius: 58px;
+   border-radius: 25px;
 }
 .block_els_flex {
     display: grid;
