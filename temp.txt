@@ -1,0 +1,36 @@
+  <div class="events_div">
+                <h1>Ближайшие события</h1>
+                <div class="events_els">
+
+                    <div class="event">
+                        <a href="" class="link_event">Глобальная презентация Huawei Mate XT</a>
+                        <span class="date_event">18 февраля 2025 г.</span>
+                    </div>
+
+                    <div class="event">
+                        <a href="" class="link_event">MWC 2025</a>
+                        <span class="date_event">3 марта 2025 г.</span>
+                    </div>
+
+                    <div class="event">
+                        <a href="" class="link_event">Презентация Nothing Phone (3a)</a>
+                        <span class="date_event">4 марта 2025 г.</span>
+                    </div>
+
+                    <div class="event">
+                        <a href="" class="link_event">Nvidia GTC 2025</a>
+                        <span class="date_event">17 марта 2025 г.</span>
+                    </div>
+
+                    <div class="event">
+                        <a href="" class="link_event">Презентация Pixel 9a</a>
+                        <span class="date_event">19 марта 2025 г.</span>
+                    </div>
+
+                    <div class="event">
+                        <a href="" class="link_event">Конференция разработчиков Microsoft Build</a>
+                        <span class="date_event">19 мая 2025 г.</span>
+                    </div>
+
+                </div>
+            </div>
